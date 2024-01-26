@@ -1,5 +1,5 @@
 import 'package:clean_architecture/core/failure/failure.dart';
-import 'package:clean_architecture/domain/entites/task_entity.dart';
+import 'package:clean_architecture/domain/entites/tasks/task_entity.dart';
 import 'package:dartz/dartz.dart';
 import 'package:freezed_result/freezed_result.dart';
 
